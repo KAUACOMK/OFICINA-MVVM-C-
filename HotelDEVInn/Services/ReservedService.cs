@@ -9,12 +9,12 @@ using System.Threading.Tasks;
 
 namespace Hotel_DEVInn.Services
 {
-    public class ReservaService
+    public class ReservedService
     {
         private readonly GenericRepository<Reserved> _reservaRepository;
         private readonly GenericRepository<Room> _quartoRepository;
 
-        public ReservaService(GenericRepository<Reserved> reservaRepo, GenericRepository<Room> quartoRepo)
+        public ReservedService(GenericRepository<Reserved> reservaRepo, GenericRepository<Room> quartoRepo)
         {
             _reservaRepository = reservaRepo;
             _quartoRepository = quartoRepo;

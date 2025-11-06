@@ -9,9 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Repositories\" />
-    <Folder Include="Views\" />
   </ItemGroup>
 
   <ItemGroup>
