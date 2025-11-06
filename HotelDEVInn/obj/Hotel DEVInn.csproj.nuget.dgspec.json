@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Hotel DEVInn.csproj": {}
+    "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\Hotel DEVInn.csproj": {}
   },
   "projects": {
-    "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Hotel DEVInn.csproj": {
+    "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\Hotel DEVInn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Hotel DEVInn.csproj",
+        "projectUniqueName": "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\Hotel DEVInn.csproj",
         "projectName": "Hotel DEVInn",
-        "projectPath": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Hotel DEVInn.csproj",
+        "projectPath": "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\Hotel DEVInn.csproj",
         "packagesPath": "C:\\Users\\2025202060014\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\obj\\",
+        "outputPath": "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.7.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

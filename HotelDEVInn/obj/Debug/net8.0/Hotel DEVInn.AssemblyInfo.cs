@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hotel DEVInn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88852db6e62eceb05e1025a8949e809e78b5c602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42d3bd731d266945ffee4e255a4ec3b06af4a884")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hotel DEVInn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hotel DEVInn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

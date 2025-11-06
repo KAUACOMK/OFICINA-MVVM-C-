@@ -11,8 +11,11 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
     <Folder Include="Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NPOI" Version="2.7.5" />
   </ItemGroup>
 
 </Project>

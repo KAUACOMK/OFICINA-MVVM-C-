@@ -1,105 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|c:\\code\\oficina-mvvm-c-\\hotel devinn\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|c:\\code\\oficina-mvvm-c-\\hotel devinn\\models\\reserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|solutionrelative:models\\reserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|c:\\code\\oficina-mvvm-c-\\hotel devinn\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|c:\\code\\oficina-mvvm-c-\\hotel devinn\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|solutionrelative:models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|c:\\code\\oficina-mvvm-c-\\hotel devinn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5555DF-E20F-4A51-B19D-EF7F6A7AC6EF}|Hotel DEVInn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Code\\OFICINA-MVVM-C-\\HotelDEVInn\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Models\\Room.cs",
-              "ToolTip": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Room.cs",
-              "RelativeToolTip": "Models\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T23:45:26.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:56:22.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Reserved.cs",
-              "DocumentMoniker": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Reserved.cs",
-              "RelativeDocumentMoniker": "Models\\Reserved.cs",
-              "ToolTip": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Reserved.cs",
-              "RelativeToolTip": "Models\\Reserved.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:55:57.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Guest.cs",
-              "DocumentMoniker": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Guest.cs",
-              "RelativeDocumentMoniker": "Models\\Guest.cs",
-              "ToolTip": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Models\\Guest.cs",
-              "RelativeToolTip": "Models\\Guest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T23:55:12.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Code\\OFICINA-MVVM-C-\\Hotel DEVInn\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T23:28:52.507Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

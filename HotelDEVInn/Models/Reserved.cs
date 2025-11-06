@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hotel_DEVInn.Models
+namespace HotelDEVInn.Models
 {
     public class Reserved
     {
