@@ -1,2 +1,3 @@
-.bin
-.obj
+HotelDEVInn/bin
+HotelDEVInn/obj
+HotelDEVInn/.vs
